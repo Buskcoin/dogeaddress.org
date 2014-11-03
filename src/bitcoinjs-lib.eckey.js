@@ -41,7 +41,7 @@ Bitcoin.ECKey = (function () {
 		this.compressed = (this.compressed == undefined) ? !!ECKey.compressByDefault : this.compressed;
 	};
 
-	ECKey.privateKeyPrefix = 0xb0; // mainnet 0xb0    testnet 0xEF
+	ECKey.privateKeyPrefix = 0xB2; // mainnet 0xB2    testnet 0xEF
 
 	/**
 	* Whether public keys should be returned compressed by default.
