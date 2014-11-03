@@ -1,13 +1,13 @@
-liteaddress.org
+murrayaddress.org
 JavaScript Client-Side Litecoin Wallet Generator
 
-Now Litecoin addresses and their corresponding private key can be conveniently 
+Now Murraycoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The liteaddress.org project is a fork of the bitaddress.org project located at:
+The murrayaddress.org project is a fork of the bitaddress.org project located at:
 https://github.com/pointbiz/bitaddress.org
 
-The liteaddress.org project provides an all-in-one HTML document with embedded
+The murrayddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
