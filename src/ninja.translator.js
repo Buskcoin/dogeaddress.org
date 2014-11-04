@@ -32,12 +32,12 @@ ninja.translator = {
 		"en": {
 			// javascript alerts or messages
 			"testneteditionactivated": "TESTNET EDITION ACTIVATED",
-			"paperlabelbitcoinaddress": "Litecoin Address:",
+			"paperlabelbitcoinaddress": "Murraycoin Address:",
 			"paperlabelprivatekey": "Private Key (Wallet Import Format):",
 			"paperlabelencryptedkey": "Encrypted Private Key (Password required)",
 			"bulkgeneratingaddresses": "Generating addresses... ",
 			"brainalertpassphrasetooshort": "The passphrase you entered is too short.\n\n",
-			"brainalertpassphrasewarning": "Warning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your litecoins.",
+			"brainalertpassphrasewarning": "Warning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your murraycoins.",
 			"brainalertpassphrasedoesnotmatch": "The passphrase does not match the confirm passphrase.",
 			"detailalertnotvalidprivatekey": "The text you entered is not a valid Private Key",
 			"detailconfirmsha256": "The text you entered is not a valid Private Key!\n\nWould you like to use the entered text as a passphrase and create a Private Key using a SHA256 hash of the passphrase?\n\nWarning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your litecoins.",
@@ -411,7 +411,7 @@ ninja.translator = {
 			"vanitylabelradioadd": "Πρόσθεσε",
 			"vanitylabelradiomultiply": "Πολλαπλασίασε",
 			"vanitycalc": "Υπολογισμός του Πορτοφολιού Vanity",
-			"vanitylabelbitcoinaddress": "Vanity Διεύθυνση Litecoin:",
+			"vanitylabelbitcoinaddress": "Vanity Διεύθυνση murraycoin:",
 			"vanitylabelnotesbitcoinaddress": "Παραπάνω είναι η διεύθυνσή σας που θα πρέπει να περιλαμβάνει το επιθυμητό πρόθεμα.",
 			"vanitylabelpublickeyhex": "Vanity Δημόσιο Κλειδί (HEX):",
 			"vanitylabelnotespublickeyhex": "Παραπάνω είναι το Δημόσιο Κλειδί σε δεκαεξαδική μορφή. ",
